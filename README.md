@@ -1,2 +1,2 @@
 # Intro-Exercise
-Introduction to Computer Science exercise solved as part of Assignment 4 on version control
+This repository contains one of my solved exercises from the Introduction to Computer Science course: Assignment 2, uploaded as a PDF. I created it to practice using Git and Github for version control as part of Assignment 4.
